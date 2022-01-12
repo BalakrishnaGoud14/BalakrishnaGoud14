@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BalakrishnaGoud14
+- 👋 Hi, I’m Malela Balakrishna Goud
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on Data Science projects
