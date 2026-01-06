@@ -1,8 +1,33 @@
-- 👋 Hi, I’m Balakrishna Goud Malela
-- 👀 I’m an aspiring Software Engineer
-- 📫 Reach me out at - malelabalakrishnagoudofficial@gmail.com
+# Hi, I'm Balakrishna 👋
 
-<!---
-BalakrishnaGoud14/BalakrishnaGoud14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring Software Engineer currently pursuing MS in CS, passionate about building scalable, efficient applications.
+
+## About Me
+
+- **Graduate CS student** focused on full‑stack development, data structures & algorithms.
+- Enjoy solving problems with clean, maintainable code and building projects that feel production‑ready.
+- Interested in backend engineering, distributed systems.
+
+## 🛠 Tech Stack
+
+- **Languages:** Java, Python, JavaScript
+- **Frontend:**  HTML5, CSS3, modern UI libraries
+- **Backend:** Spring Boot, Spring MVC, Spring Security, REST APIs, basic microservice patterns
+- **Databases:** MS SQL, MySQL, Oracle DB
+- **Tools & Platforms:** Git, GitHub, Docker, CI/CD basics, VS Code, Eclipse
+
+## 💼 What I Work On
+
+- Building **end‑to‑end web applications**: from database schema to frontend UI.
+- Implementing **efficient algorithms and data structures** to solve real problems.
+- Writing **readable, well‑documented code** with a focus on testing and reliability.
+
+## 🚀 What I’m Looking For
+
+- Full‑time roles in **Software Engineering / Backend / Full‑Stack**.
+- Teams where code quality, learning, and mentorship are valued.
+
+## 📫 Connect
+
+- **LinkedIn:** [Balakrishna Goud Malela](https://www.linkedin.com/in/balakrishna-goud-malela-224a2b200/)
+- **GitHub:** [BalakrishnaGoud14](https://github.com/BalakrishnaGoud14)
