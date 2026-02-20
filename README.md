@@ -11,10 +11,10 @@ Aspiring Software Engineer currently pursuing MS in CS, passionate about buildin
 ## 🛠 Tech Stack
 
 - **Languages:** Java, Python, JavaScript
-- **Frontend:**  HTML5, CSS3, modern UI libraries
+- **Frontend:**  HTML5, CSS3, React JS
 - **Backend:** Spring Boot, Spring MVC, Spring Security, REST APIs, basic microservice patterns
-- **Databases:** MS SQL, MySQL, Oracle DB
-- **Tools & Platforms:** Git, GitHub, Docker, CI/CD basics, VS Code, Eclipse
+- **Databases:** MS SQL Server, MySQL, Oracle DB, PostgreSQL
+- **Tools & Platforms:** Git, GitHub, Docker, AWS, CI/CD basics, VS Code, Eclipse, Intellij IDEA
 
 ## 💼 What I Work On
 
