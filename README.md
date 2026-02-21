@@ -31,3 +31,4 @@ Aspiring Software Engineer currently pursuing MS in CS, passionate about buildin
 
 - **LinkedIn:** [Balakrishna Goud Malela](https://www.linkedin.com/in/balakrishna-goud-malela-224a2b200/)
 - **GitHub:** [BalakrishnaGoud14](https://github.com/BalakrishnaGoud14)
+- **Portfolio:** [Balakrishna Goud Malela](https://balakrishna-goud-portfolio.netlify.app/)
