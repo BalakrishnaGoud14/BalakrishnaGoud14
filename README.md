@@ -27,7 +27,7 @@ Full Stack Software Engineer with 3+ years of experience building scalable, ente
 - **Application Engineer** — Newgen Software / State Bank of India, Mumbai (Feb 2023 – Jul 2024): Enterprise Java + Spring Boot microservices, Kafka streaming, 99.9% uptime across a 500M+ customer platform.
 
 ## 🚀 What I'm Looking For
-- Full-time roles in **Software Engineering / Backend / Full-Stack**, with Python/AI-ML and QA/SDET as secondary tracks
+- Full-time roles in **Software Engineering / Backend / Full-Stack**, with Java/Springboot, Python/AI-ML and QA/SDET as secondary tracks
 - Teams where code quality, ownership, and mentorship are valued
 - Open to relocation anywhere in the US
 
